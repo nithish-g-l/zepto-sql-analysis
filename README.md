@@ -1,5 +1,4 @@
 # Zepto Inventory SQL Analysis
-"LOVE BROTHER"
 This project analyzes Zepto's inventory dataset using SQL to derive meaningful business insights. The analysis focuses on product pricing, discounts, category performance, inventory distribution, and other key metrics through structured SQL queries.
 
 ## Objectives
